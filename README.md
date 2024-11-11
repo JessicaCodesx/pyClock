@@ -1,1 +1,1 @@
-This is a super simple custom clock widget using Python! :)
+This is a super simple custom clock widget using Python!
